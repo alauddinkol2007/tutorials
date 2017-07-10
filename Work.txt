@@ -1,0 +1,57 @@
+
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<STYLE>
+div.container {
+	width: 100%; 
+	border: 2px solid black	
+	}
+header, footer {
+	color:black;
+	background-color:powderblue;
+	text-align:center;
+	border-color:red;
+	border-width:10px;
+		}	
+
+nav {
+float:left;
+max-width:160px;
+}
+
+nav ul{
+list-style-type: none;
+}
+
+nav ul a{
+text-decoration: none;
+padding: 0;
+}
+
+article{
+margin-left:170px;
+border-left: 1px solid black;
+padding:1em;
+}
+</STYLE>
+</HEAD>
+<BODY>
+<div class="container">
+<header>
+This is just the Begining
+</header>
+<nav>
+<ul>
+<li><a href="https://www.novartis.com/our-work">Our Work</a></li>
+<li><a href="https://www.novartis.com/about-us">About Us</a></li>
+<li><a href="https://www.novartis.com/careers">Career</a></li>
+</ul>
+</nav>
+<article>
+<h1>First Test</h1>
+<p> This is just a testing phase of how to learn HTML, CSS and be on the same track to go and choose Developer Role going forward. Hope can learn the things much quicker.</p>
+</article>
+<footer>Copyright &copy 2017</footer>
+</BODY>
+</HTML>

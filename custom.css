@@ -1,0 +1,63 @@
+#container {
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#login {
+	border-width:1px;
+	border-color:black;
+	border-style:solid;
+	background-color: powderblue;
+	text-align:right;
+	padding: 10px;
+}
+
+#menu {
+	border-width:1px;
+	border-color:black;
+	border-style:solid;	
+
+}
+
+#menu ul {
+	list-style-type:none;
+}
+
+#common {
+	border-width:1px;
+	border-color:black;
+	border-style:solid;	
+	
+}
+
+#link {
+	border-width:1px;
+	border-color:black;
+	border-style:solid;	
+	clear:both;
+}
+
+#link ul {
+	list-style-type:none;
+}
+
+#footer{
+	border-width:1px;
+	border-color:black;
+	border-style:solid;	
+	clear:both;
+}
+
+#nav ul {
+	list-style-type:none;
+	float:left;
+	padding:5px;
+}
+
+#body {
+	float:right;
+}
+
+#message {
+	padding:80px 50px 10px 50px;
+}
