@@ -1,2 +1,2 @@
 # Development
-This is for HTML/CSS Development Environment 
+This is for HTML/CSS Development Environment Setup 
